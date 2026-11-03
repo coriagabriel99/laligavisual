@@ -1,0 +1,786 @@
+{
+"source": "ESPN’s La Liga scoring leaders, read 3 November 2026",
+"note": "The 50 leading scorers and 50 leading assist providers only, with games played. A dash means ESPN’s list does not go low enough to say. Everyone else, and all shot maps, minutes and xG, arrive when the GitHub version runs.",
+"fields": [
+"name",
+"team",
+"pos",
+"gp",
+"g",
+"pk",
+"a",
+"gc"
+],
+"rows": [
+[
+"Raphinha",
+"Barcelona",
+"",
+10,
+15,
+null,
+3,
+null
+],
+[
+"Kylian Mbappé",
+"Real Madrid",
+"",
+10,
+11,
+null,
+2,
+null
+],
+[
+"Lamine Yamal",
+"Barcelona",
+"",
+11,
+10,
+null,
+7,
+null
+],
+[
+"Yassir Zabiri",
+"Racing Santander",
+"",
+10,
+8,
+null,
+null,
+null
+],
+[
+"Sergio Camello",
+"Rayo Vallecano",
+"",
+11,
+7,
+null,
+2,
+null
+],
+[
+"Ante Budimir",
+"Osasuna",
+"",
+10,
+7,
+null,
+null,
+null
+],
+[
+"Roberto Fernández",
+"Espanyol",
+"",
+11,
+6,
+null,
+null,
+null
+],
+[
+"Fer Niño",
+"Elche",
+"",
+10,
+6,
+null,
+null,
+null
+],
+[
+"Álex Baena",
+"Atlético Madrid",
+"",
+11,
+5,
+null,
+3,
+null
+],
+[
+"Roger Brugué",
+"Levante",
+"",
+10,
+5,
+null,
+null,
+null
+],
+[
+"Lucas Boyé",
+"Alavés",
+"",
+10,
+5,
+null,
+null,
+null
+],
+[
+"Fermín López",
+"Barcelona",
+"",
+10,
+5,
+null,
+5,
+null
+],
+[
+"Pierre-Emerick Aubameyang",
+"Deportivo",
+"",
+7,
+5,
+null,
+2,
+null
+],
+[
+"Adrián Niño",
+"Málaga",
+"",
+7,
+5,
+null,
+null,
+null
+],
+[
+"Mariano Díaz",
+"Alavés",
+"",
+11,
+4,
+null,
+4,
+null
+],
+[
+"Alejandro Grimaldo",
+"Atlético Madrid",
+"",
+10,
+4,
+null,
+2,
+null
+],
+[
+"Iván Romero",
+"Levante",
+"",
+11,
+3,
+null,
+null,
+null
+],
+[
+"Giuliano Simeone",
+"Atlético Madrid",
+"",
+11,
+3,
+null,
+2,
+null
+],
+[
+"Álvaro García",
+"Rayo Vallecano",
+"",
+11,
+3,
+null,
+2,
+null
+],
+[
+"Georges Mikautadze",
+"Villarreal",
+"",
+11,
+3,
+null,
+null,
+null
+],
+[
+"Jude Bellingham",
+"Real Madrid",
+"",
+10,
+3,
+null,
+3,
+null
+],
+[
+"Pape Gueye",
+"Villarreal",
+"",
+10,
+3,
+null,
+null,
+null
+],
+[
+"Álex Berenguer",
+"Athletic Club",
+"",
+10,
+3,
+null,
+4,
+null
+],
+[
+"Luka Sučić",
+"Real Sociedad",
+"",
+9,
+3,
+null,
+null,
+null
+],
+[
+"Abde Ezzalzouli",
+"Real Betis",
+"",
+8,
+3,
+null,
+null,
+null
+],
+[
+"Orri Óskarsson",
+"Real Sociedad",
+"",
+8,
+3,
+null,
+null,
+null
+],
+[
+"Isaac Romero",
+"Sevilla",
+"",
+8,
+3,
+null,
+null,
+null
+],
+[
+"Gabriel Jesus",
+"Barcelona",
+"",
+7,
+3,
+null,
+null,
+null
+],
+[
+"Jonathan David",
+"Atlético Madrid",
+"",
+6,
+3,
+null,
+2,
+null
+],
+[
+"Lee Kang-in",
+"Atlético Madrid",
+"",
+11,
+2,
+null,
+null,
+null
+],
+[
+"Alberto Moleiro",
+"Villarreal",
+"",
+11,
+2,
+null,
+4,
+null
+],
+[
+"Ferran Jutglà",
+"Celta Vigo",
+"",
+11,
+2,
+null,
+null,
+null
+],
+[
+"Karim Adeyemi",
+"Barcelona",
+"",
+11,
+2,
+null,
+2,
+null
+],
+[
+"Germán Valera",
+"Elche",
+"",
+10,
+2,
+null,
+null,
+null
+],
+[
+"Martín Satriano",
+"Getafe",
+"",
+10,
+2,
+null,
+null,
+null
+],
+[
+"Adrián de la Fuente",
+"Levante",
+"",
+10,
+2,
+null,
+null,
+null
+],
+[
+"Mikel Oyarzabal",
+"Real Sociedad",
+"",
+10,
+2,
+null,
+2,
+null
+],
+[
+"Iñaki Williams",
+"Athletic Club",
+"",
+10,
+2,
+null,
+2,
+null
+],
+[
+"Anthony Gordon",
+"Barcelona",
+"",
+10,
+2,
+null,
+4,
+null
+],
+[
+"Arda Güler",
+"Real Madrid",
+"",
+10,
+2,
+null,
+2,
+null
+],
+[
+"Yan Diomande",
+"Real Madrid",
+"",
+10,
+2,
+null,
+2,
+null
+],
+[
+"Isco",
+"Real Betis",
+"",
+10,
+2,
+null,
+null,
+null
+],
+[
+"Rodrigo Riquelme",
+"Real Betis",
+"",
+10,
+2,
+null,
+null,
+null
+],
+[
+"Gerard Moreno",
+"Villarreal",
+"",
+10,
+2,
+null,
+null,
+null
+],
+[
+"Jorge de Frutos",
+"Rayo Vallecano",
+"",
+9,
+2,
+null,
+2,
+null
+],
+[
+"Cucho Hernández",
+"Real Betis",
+"",
+9,
+2,
+null,
+2,
+null
+],
+[
+"Ander Barrenetxea",
+"Real Sociedad",
+"",
+9,
+2,
+null,
+null,
+null
+],
+[
+"Gonçalo Guedes",
+"Real Sociedad",
+"",
+9,
+2,
+null,
+null,
+null
+],
+[
+"Miguel Sierra",
+"Sevilla",
+"",
+8,
+2,
+null,
+null,
+null
+],
+[
+"Aitor Paredes",
+"Athletic Club",
+"",
+8,
+2,
+null,
+null,
+null
+],
+[
+"Javi Hernández",
+"Espanyol",
+"",
+11,
+null,
+null,
+6,
+null
+],
+[
+"Unai López",
+"Rayo Vallecano",
+"",
+11,
+null,
+null,
+3,
+null
+],
+[
+"Iñigo Vicente",
+"Racing Santander",
+"",
+10,
+null,
+null,
+3,
+null
+],
+[
+"Ángel Pérez",
+"Alavés",
+"",
+10,
+null,
+null,
+3,
+null
+],
+[
+"José Antonio Morente",
+"Elche",
+"",
+10,
+null,
+null,
+3,
+null
+],
+[
+"Carlos Soler",
+"Real Sociedad",
+"",
+9,
+null,
+null,
+3,
+null
+],
+[
+"Dani Olmo",
+"Barcelona",
+"",
+9,
+null,
+null,
+3,
+null
+],
+[
+"Vinícius Júnior",
+"Real Madrid",
+"",
+8,
+null,
+null,
+3,
+null
+],
+[
+"Youssouf Fofana",
+"Sevilla",
+"",
+7,
+null,
+null,
+3,
+null
+],
+[
+"Job Ochieng",
+"Real Sociedad",
+"",
+7,
+null,
+null,
+3,
+null
+],
+[
+"Dávid Hancko",
+"Atlético Madrid",
+"",
+11,
+null,
+null,
+2,
+null
+],
+[
+"Pedri",
+"Barcelona",
+"",
+11,
+null,
+null,
+2,
+null
+],
+[
+"Ayoze Pérez",
+"Villarreal",
+"",
+11,
+null,
+null,
+2,
+null
+],
+[
+"Javi Guerra",
+"Valencia",
+"",
+10,
+null,
+null,
+2,
+null
+],
+[
+"Federico Valverde",
+"Real Madrid",
+"",
+10,
+null,
+null,
+2,
+null
+],
+[
+"Mario Soriano",
+"Deportivo",
+"",
+10,
+null,
+null,
+2,
+null
+],
+[
+"Robbie Ure",
+"Sevilla",
+"",
+10,
+null,
+null,
+2,
+null
+],
+[
+"Lucas Cepeda",
+"Elche",
+"",
+10,
+null,
+null,
+2,
+null
+],
+[
+"Hugo Álvarez",
+"Celta Vigo",
+"",
+9,
+null,
+null,
+2,
+null
+],
+[
+"Ilias Akhomach",
+"Villarreal",
+"",
+9,
+null,
+null,
+2,
+null
+],
+[
+"Marc Bernal",
+"Barcelona",
+"",
+9,
+null,
+null,
+2,
+null
+],
+[
+"Pau Cubarsí",
+"Barcelona",
+"",
+8,
+null,
+null,
+2,
+null
+],
+[
+"Xavi Espart",
+"Barcelona",
+"",
+8,
+null,
+null,
+2,
+null
+],
+[
+"Miguel Román",
+"Celta Vigo",
+"",
+7,
+null,
+null,
+2,
+null
+],
+[
+"Roy Revivo",
+"Elche",
+"",
+7,
+null,
+null,
+2,
+null
+],
+[
+"Pablo Martínez",
+"Málaga",
+"",
+7,
+null,
+null,
+2,
+null
+],
+[
+"Hugo González",
+"Celta Vigo",
+"",
+6,
+null,
+null,
+2,
+null
+]
+]
+}
