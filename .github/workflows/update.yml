@@ -1,0 +1,52 @@
+name: Update La Liga dashboard
+
+# Rebuilds the dashboard from the newest public data every morning and publishes it with GitHub Pages.
+# One-time setup: in the repository, open Settings > Pages and set Source to "GitHub Actions".
+on:
+  schedule:
+    - cron: '0 7 * * *'        # 07:00 UTC, after football-data.co.uk's overnight update
+  workflow_dispatch:           # also lets you run it by hand from the Actions tab
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Keep downloaded files between runs (finished seasons and Understat match files)
+        uses: actions/cache@v4
+        with:
+          path: raw
+          key: raw-v2-${{ github.run_id }}
+          restore-keys: raw-v2-
+      - name: Build the dashboard
+        run: python laliga_build.py --raw raw --out docs/index.html   # the first run downloads about 1,900 Understat match files (15-25 minutes)
+      - name: Check the result before publishing it
+        run: python check_build.py docs/index.html
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
