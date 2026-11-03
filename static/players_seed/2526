@@ -1,0 +1,1066 @@
+{
+"source": "soccernews.com season table (football-data.org figures) and Wikipedia's Zamora Trophy table, read 3 November 2026",
+"note": "Final 2025–26 figures for the league’s 100 players with three or more goals plus assists, and the five goalkeepers with the best goals-against average. Everyone else, and all shot maps, minutes and xG, arrive when the GitHub version runs.",
+"fields": [
+"name",
+"team",
+"pos",
+"gp",
+"g",
+"pk",
+"a",
+"gc"
+],
+"rows": [
+[
+"Kylian Mbappé",
+"Real Madrid CF",
+"F",
+31,
+25,
+8,
+4,
+null
+],
+[
+"Lamine Yamal",
+"FC Barcelona",
+"M",
+28,
+16,
+3,
+11,
+null
+],
+[
+"Vedat Muriqi",
+"RCD Mallorca",
+"F",
+37,
+23,
+5,
+1,
+null
+],
+[
+"Vinicius Junior",
+"Real Madrid CF",
+"M",
+35,
+16,
+4,
+5,
+null
+],
+[
+"Ferrán Torres",
+"FC Barcelona",
+"M",
+35,
+16,
+0,
+3,
+null
+],
+[
+"Georges Mikautadze",
+"Villarreal CF",
+"F",
+33,
+13,
+0,
+6,
+null
+],
+[
+"Mikel Oyarzabal",
+"Real Sociedad de Fútbol",
+"F",
+35,
+15,
+7,
+4,
+null
+],
+[
+"Abdessamad Ezzalzouli",
+"Real Betis Balompié",
+"F",
+29,
+10,
+0,
+8,
+null
+],
+[
+"Ante Budimir",
+"CA Osasuna",
+"F",
+37,
+17,
+6,
+0,
+null
+],
+[
+"Toni Martínez",
+"Deportivo Alavés",
+"F",
+38,
+14,
+1,
+3,
+null
+],
+[
+"Borja Iglesias",
+"RC Celta de Vigo",
+"F",
+37,
+15,
+4,
+1,
+null
+],
+[
+"Dani Olmo",
+"FC Barcelona",
+"M",
+33,
+7,
+0,
+9,
+null
+],
+[
+"Nicolas Pépé",
+"Villarreal CF",
+"M",
+37,
+8,
+1,
+8,
+null
+],
+[
+"Raphinha",
+"FC Barcelona",
+"M",
+24,
+13,
+3,
+3,
+null
+],
+[
+"Robert Lewandowski",
+"FC Barcelona",
+"F",
+35,
+14,
+1,
+2,
+null
+],
+[
+"Alberto Moleiro",
+"Villarreal CF",
+"M",
+37,
+10,
+0,
+5,
+null
+],
+[
+"Fermín López",
+"FC Barcelona",
+"M",
+31,
+6,
+0,
+9,
+null
+],
+[
+"Marcus Rashford",
+"FC Barcelona",
+"M",
+36,
+8,
+0,
+7,
+null
+],
+[
+"Pablo Fornals",
+"Real Betis Balompié",
+"M",
+38,
+9,
+0,
+6,
+null
+],
+[
+"Antony",
+"Real Betis Balompié",
+"M",
+32,
+8,
+0,
+6,
+null
+],
+[
+"Cucho Hernández",
+"Real Betis Balompié",
+"F",
+32,
+11,
+1,
+3,
+null
+],
+[
+"Akor Adams",
+"Sevilla FC",
+"F",
+32,
+10,
+3,
+3,
+null
+],
+[
+"Alexander Sørloth",
+"Club Atlético de Madrid",
+"F",
+35,
+13,
+0,
+0,
+null
+],
+[
+"Arda Güler",
+"Real Madrid CF",
+"M",
+32,
+4,
+0,
+9,
+null
+],
+[
+"Gorka Guruzeta",
+"Athletic Club",
+"F",
+36,
+10,
+1,
+3,
+null
+],
+[
+"Álvaro Rodríguez",
+"Elche CF",
+"F",
+37,
+7,
+0,
+5,
+null
+],
+[
+"Ferran Jutglà",
+"RC Celta de Vigo",
+"M",
+35,
+9,
+0,
+3,
+null
+],
+[
+"Gonçalo Guedes",
+"Real Sociedad de Fútbol",
+"M",
+32,
+8,
+0,
+4,
+null
+],
+[
+"Julián Álvarez",
+"Club Atlético de Madrid",
+"F",
+32,
+8,
+2,
+4,
+null
+],
+[
+"Karl Etta Eyong",
+"Levante UD",
+"F",
+36,
+7,
+0,
+5,
+null
+],
+[
+"Lucas Boyé",
+"Deportivo Alavés",
+"F",
+30,
+11,
+3,
+1,
+null
+],
+[
+"Antoine Griezmann",
+"Club Atlético de Madrid",
+"F",
+36,
+7,
+0,
+4,
+null
+],
+[
+"Carlos Espí",
+"Levante UD",
+"F",
+34,
+11,
+0,
+0,
+null
+],
+[
+"Federico Valverde",
+"Real Madrid CF",
+"M",
+32,
+5,
+0,
+6,
+null
+],
+[
+"Jorge de Frutos",
+"Rayo Vallecano de Madrid",
+"M",
+36,
+10,
+1,
+1,
+null
+],
+[
+"Viktor Tsyhankov",
+"Girona FC",
+"M",
+32,
+6,
+0,
+5,
+null
+],
+[
+"André Silva",
+"Elche CF",
+"F",
+33,
+10,
+3,
+0,
+null
+],
+[
+"Federico Viñas",
+"Real Oviedo",
+"F",
+33,
+9,
+2,
+1,
+null
+],
+[
+"Gerard Moreno",
+"Villarreal CF",
+"F",
+23,
+10,
+3,
+0,
+null
+],
+[
+"Giuliano Simeone",
+"Club Atlético de Madrid",
+"M",
+33,
+4,
+0,
+6,
+null
+],
+[
+"Hugo Duro",
+"Valencia CF",
+"F",
+37,
+10,
+1,
+0,
+null
+],
+[
+"Javi Guerra",
+"Valencia CF",
+"M",
+38,
+4,
+0,
+6,
+null
+],
+[
+"Jude Bellingham",
+"Real Madrid CF",
+"M",
+27,
+6,
+0,
+4,
+null
+],
+[
+"Nico Williams",
+"Athletic Club",
+"M",
+25,
+6,
+1,
+4,
+null
+],
+[
+"Vladyslav Vanat",
+"Girona FC",
+"F",
+27,
+9,
+3,
+1,
+null
+],
+[
+"Williot Swedberg",
+"RC Celta de Vigo",
+"M",
+31,
+5,
+0,
+5,
+null
+],
+[
+"Ayoze Pérez",
+"Villarreal CF",
+"F",
+26,
+5,
+1,
+4,
+null
+],
+[
+"Djibril Sow",
+"Sevilla FC",
+"M",
+34,
+5,
+0,
+4,
+null
+],
+[
+"Germán Valera",
+"Elche CF",
+"M",
+36,
+4,
+0,
+5,
+null
+],
+[
+"Iván Romero",
+"Levante UD",
+"F",
+35,
+7,
+0,
+2,
+null
+],
+[
+"Kike García",
+"RCD Espanyol de Barcelona",
+"F",
+37,
+8,
+1,
+1,
+null
+],
+[
+"Orri Óskarsson",
+"Real Sociedad de Fútbol",
+"F",
+21,
+9,
+0,
+0,
+null
+],
+[
+"Roberto Fernández",
+"RCD Espanyol de Barcelona",
+"F",
+37,
+7,
+1,
+2,
+null
+],
+[
+"Ruben Vargas",
+"Sevilla FC",
+"M",
+23,
+3,
+1,
+6,
+null
+],
+[
+"Samú Costa",
+"RCD Mallorca",
+"M",
+34,
+7,
+0,
+2,
+null
+],
+[
+"Álvaro García",
+"Rayo Vallecano de Madrid",
+"M",
+32,
+4,
+0,
+5,
+null
+],
+[
+"Ander Barrenetxea",
+"Real Sociedad de Fútbol",
+"M",
+30,
+3,
+0,
+5,
+null
+],
+[
+"Carlos Romero",
+"RCD Espanyol de Barcelona",
+"D",
+35,
+6,
+0,
+2,
+null
+],
+[
+"Iago Aspas",
+"RC Celta de Vigo",
+"F",
+37,
+5,
+2,
+3,
+null
+],
+[
+"Ilyas Chaira",
+"Real Oviedo",
+"M",
+36,
+6,
+0,
+2,
+null
+],
+[
+"Mauro Arambarri",
+"Getafe CF",
+"M",
+37,
+6,
+2,
+2,
+null
+],
+[
+"Pablo Torre",
+"RCD Mallorca",
+"M",
+38,
+4,
+0,
+4,
+null
+],
+[
+"Pere Milla",
+"RCD Espanyol de Barcelona",
+"M",
+34,
+7,
+0,
+1,
+null
+],
+[
+"Rafa Mir",
+"Elche CF",
+"F",
+30,
+8,
+1,
+0,
+null
+],
+[
+"Raúl García de Haro",
+"CA Osasuna",
+"F",
+37,
+7,
+0,
+1,
+null
+],
+[
+"Tajon Buchanan",
+"Villarreal CF",
+"M",
+35,
+7,
+0,
+1,
+null
+],
+[
+"Víctor Muñoz",
+"CA Osasuna",
+"F",
+34,
+6,
+0,
+2,
+null
+],
+[
+"Azzedine Ounahi",
+"Girona FC",
+"M",
+24,
+5,
+1,
+2,
+null
+],
+[
+"Brais Méndez",
+"Real Sociedad de Fútbol",
+"M",
+34,
+5,
+1,
+2,
+null
+],
+[
+"Carlos Soler",
+"Real Sociedad de Fútbol",
+"M",
+34,
+4,
+0,
+3,
+null
+],
+[
+"Gonzalo García",
+"Real Madrid CF",
+"M",
+37,
+6,
+0,
+1,
+null
+],
+[
+"Largie Ramazani",
+"Valencia CF",
+"M",
+31,
+6,
+3,
+1,
+null
+],
+[
+"Martín Satriano",
+"Getafe CF",
+"F",
+18,
+6,
+0,
+1,
+null
+],
+[
+"Pape Gueye",
+"Villarreal CF",
+"M",
+32,
+5,
+1,
+2,
+null
+],
+[
+"Roberto Navarro",
+"Athletic Club",
+"M",
+34,
+6,
+0,
+1,
+null
+],
+[
+"Aitor Ruibal",
+"Real Betis Balompié",
+"D",
+31,
+4,
+0,
+2,
+null
+],
+[
+"Alexis Sánchez",
+"Sevilla FC",
+"F",
+30,
+4,
+1,
+2,
+null
+],
+[
+"Hugo Álvarez",
+"RC Celta de Vigo",
+"M",
+34,
+4,
+0,
+2,
+null
+],
+[
+"Sergio Camello",
+"Rayo Vallecano de Madrid",
+"F",
+32,
+5,
+0,
+1,
+null
+],
+[
+"Umar Sadiq",
+"Valencia CF",
+"F",
+31,
+4,
+0,
+2,
+null
+],
+[
+"Alberto Reina",
+"Real Oviedo",
+"M",
+37,
+4,
+0,
+1,
+null
+],
+[
+"Arnaut Danjuma",
+"Valencia CF",
+"M",
+37,
+3,
+0,
+2,
+null
+],
+[
+"Borja Mayoral",
+"Getafe CF",
+"F",
+21,
+4,
+0,
+1,
+null
+],
+[
+"Carlos Vicente",
+"Deportivo Alavés",
+"M",
+21,
+5,
+3,
+0,
+null
+],
+[
+"Carlos Álvarez",
+"Levante UD",
+"M",
+31,
+3,
+0,
+2,
+null
+],
+[
+"Alejandro Catena",
+"CA Osasuna",
+"D",
+35,
+3,
+0,
+2,
+null
+],
+[
+"Cristhian Stuani",
+"Girona FC",
+"F",
+26,
+5,
+3,
+0,
+null
+],
+[
+"Diego López",
+"Valencia CF",
+"M",
+36,
+4,
+0,
+1,
+null
+],
+[
+"Isi Palazón",
+"Rayo Vallecano de Madrid",
+"M",
+31,
+3,
+2,
+2,
+null
+],
+[
+"Nicolás González",
+"Club Atlético de Madrid",
+"M",
+24,
+5,
+0,
+0,
+null
+],
+[
+"Ademola Lookman",
+"Club Atlético de Madrid",
+"F",
+14,
+4,
+1,
+0,
+null
+],
+[
+"Alemão",
+"Rayo Vallecano de Madrid",
+"F",
+31,
+4,
+0,
+0,
+null
+],
+[
+"Joel Casals",
+"Girona FC",
+"D",
+34,
+3,
+0,
+1,
+null
+],
+[
+"Cédric Bakambu",
+"Real Betis Balompié",
+"F",
+31,
+3,
+0,
+1,
+null
+],
+[
+"Guido Rodríguez",
+"Valencia CF",
+"M",
+16,
+4,
+0,
+0,
+null
+],
+[
+"Isaac Romero",
+"Sevilla FC",
+"F",
+33,
+4,
+0,
+0,
+null
+],
+[
+"Oihan Sancet",
+"Athletic Club",
+"M",
+28,
+4,
+2,
+0,
+null
+],
+[
+"Adrián Liso",
+"Getafe CF",
+"M",
+34,
+3,
+0,
+0,
+null
+],
+[
+"Leandro Cabrera",
+"RCD Espanyol de Barcelona",
+"D",
+36,
+3,
+0,
+0,
+null
+],
+[
+"Ronald Araújo",
+"FC Barcelona",
+"D",
+32,
+3,
+0,
+0,
+null
+],
+[
+"Joan García",
+"FC Barcelona",
+"GK",
+30,
+0,
+0,
+0,
+21
+],
+[
+"Thibaut Courtois",
+"Real Madrid CF",
+"GK",
+32,
+0,
+0,
+0,
+28
+],
+[
+"David Soria",
+"Getafe CF",
+"GK",
+38,
+0,
+0,
+0,
+38
+],
+[
+"Jan Oblak",
+"Club Atlético de Madrid",
+"GK",
+30,
+0,
+0,
+0,
+31
+],
+[
+"Luiz Júnior",
+"Villarreal CF",
+"GK",
+28,
+0,
+0,
+0,
+30
+]
+]
+}
