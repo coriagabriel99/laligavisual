@@ -1054,8 +1054,13 @@ def main():
     current = args.current or default_current()
     os.makedirs(args.raw, exist_ok=True)
 
-    teams_meta = {k: v for k, v in json.load(open(os.path.join(HERE, 'static', 'teams.json'), encoding='utf-8')).items()
-                  if not k.startswith('_')}
+    teams_path = next((c for c in (os.path.join(HERE, 'static', 'teams.json'), os.path.join(HERE, 'teams.json')) if os.path.exists(c)), None)
+    if teams_path:
+        teams_meta = {k: v for k, v in json.load(open(teams_path, encoding='utf-8')).items() if not k.startswith('_')}
+    else:
+        log('WARNING: static/teams.json is missing, so every club gets a default name and a grey colour. '
+            'Add the file at static/teams.json (the folder matters) to fix this.')
+        teams_meta = {}
     of2fd = {alias: k for k, v in teams_meta.items() for alias in v.get('of', [])}
     tmap = team_mapper(teams_meta)
     espn_by_year = {}
